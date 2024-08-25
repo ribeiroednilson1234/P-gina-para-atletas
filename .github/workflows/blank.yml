@@ -6,9 +6,9 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the "Principalribeiroednilson1234-patch-dpf" branch
   push:
-    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ]
+    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ],[ "Principalribeiroednilson1234-patch-atletas-1" ]
   pull_request:
-    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ]
+    branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ],[ "Principalribeiroednilson1234-patch-atletas-1" ]
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
