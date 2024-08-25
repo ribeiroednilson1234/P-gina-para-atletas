@@ -3,7 +3,7 @@
 name: CI
 
 # Controls when the workflow will run
-on:
+on: Atleta
   # Triggers the workflow on push or pull request events but only for the "Principalribeiroednilson1234-patch-dpf" branch
   push:
     branches: [ "Principalribeiroednilson1234-patch-dpf" ],[ "Principalribeiroednilson1234-patch-atletas" ],[ "Principalribeiroednilson1234-patch-atletas-1" ]
