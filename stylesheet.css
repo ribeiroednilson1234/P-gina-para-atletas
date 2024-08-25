@@ -1,3 +1,5 @@
+@import"reset nova.css";
+@import"nova.css";
 body{
 background:#000ddd;
 margin:1%;
@@ -12,6 +14,13 @@ margin:0%;
 border:0%;
 padding:2%;
 font:#000000,justify,center;
+}
+is-superselector("div", "div.nova")
+Result:true
+is-superselector("div.nova", "div")
+Result:false
+is-superselector("div", "div")
+Result:true
 }
 aside:div.nova{
 background-color:#FFFFFF;
