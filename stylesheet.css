@@ -1,12 +1,14 @@
 @import"reset nova.css";
 @import"nova.css";
 body{
+grid:auto;
 background:#000ddd;
 margin:1%;
 border:1%;
 padding:auto;
 }
 article{
+grid:auto;
 background-color:#FFFFFF;
 float:center;
 position:top;
@@ -15,6 +17,7 @@ border:0%;
 padding:2%;
 font:#000000,justify,center;
 }
+grid:auto;
 is-superselector("div", "div.nova")
 Result:true
 is-superselector("div.nova", "div")
@@ -23,6 +26,7 @@ is-superselector("div", "div")
 Result:true
 }
 aside:div.nova{
+grid:auto;
 background-color:#FFFFFF;
 float:center;
 display:table-row;
@@ -38,6 +42,7 @@ position:top;
 font:#000000 justify center;
 }
 .nova figure{
+grid:auto;
 background-color:#DDDFFD;
 display:inline-block;
 position:middle;
@@ -46,6 +51,7 @@ border:4%;
 padding:auto;
 }
 .nova figure img{
+grid:auto;
 background-color:#6495ED;
 margin:1%;
 border:1%;
@@ -57,6 +63,7 @@ display:inline-block;
 image-orientation:vertical
 }
 .nova figure img figcaption{
+grid:auto;
 background-color:#F0FFFF;
 margin:1%;
 border:1%;
