@@ -1,16 +1,18 @@
 # These are supported funding model platforms
+# These are supported funding model platforms
 
-github: [ribeiroednilson1234]
-patreon: ribeiroednilson1234/
-open_collective: ribeiroednilson1234/
-ko_fi: ribeiroednilson1234/
-tidelift: platform-name/Campanha Política2024 e.g., npm/babel
-community_bridge: Campanha Política2024/.git e.g., cloud-foundry
-liberapay: ribeiroednilson1234/
-issuehunt: ribeiroednilson1234/
-lfx_crowdfunding: Campanha Política2024/.git e.g., cloud-foundry
-polar: ribeiroednilson1234/
-buy_me_a_coffee: ribeiroednilson1234/
-custom: Replace with up to 4 custom sponsorship URLs e.g., ['https://www.gnu.org/', 'https://www.ibm.com/br-pt']
+github: Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [ribeiroednilson1234/]
+patreon: # Replace with a single Patreon username
+open_collective: # Replace with a single Open Collective username
+ko_fi: # Replace with a single Ko-fi username
+tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+community_bridge: Replace with a single Community Bridge project-name e.g., cloud-foundry, 'https://contactout.com/ronaldo-nazario-63962#'
+liberapay: # Replace with a single Liberapay username
+issuehunt: # Replace with a single IssueHunt username 
+lfx_crowdfunding: Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry, institutoneymarjr.org,
+polar: # Replace with a single Polar username
+buy_me_a_coffee: Replace with a single Buy Me a Coffee ribeiroednilson1234/
+thanks_dev: Replace with a single thanks.dev ribeiroednilson1234/
+custom:  Replace with up to 4 custom sponsorship URLs e.g., ['https://contactout.com/ronaldo-nazario-63962#', 'https://www.institutoneymarjr.org.br']
 Direitos_autorais: Ednilson Alves Ribeiro
 author: Ednilson Alves
